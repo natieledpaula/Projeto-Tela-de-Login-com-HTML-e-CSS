@@ -3,17 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DevClub Login</title>
+    <link
+href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'> 
+
+    <title>N&G Enterprises - Login</title>
 </head>
 <body>
     <main class="container">
         <form>
-            <h1>Login DevClub</h1>
+            <h1>Login N&G</h1>
+            <!-- Parte do Login -->
             <div class="input_box">
                 <input placeholder="Usuário" type="email">
+                <i class="bx bx-user"></i>
             </div>
+            <!-- Colocando icones de email e senha -->
             <div class="input_box">
                 <input placeholder="Senha" type="password">
+                <i class="bx bx-lock-alt"></i>
+            </div>
+            <!-- Parte de lembrar e esquecer senha -->
+            <div class="remember_forgot">
+                <label>
+                <input type="checkbox">
+                Lembrar minha senha
+                </label>
+                <a href="#">Esqueci minha senha</a>
+            </div>
+            <!-- Botão de login -->
+            <button type="submit">Login</button>
+            <!-- Parte de registrar -->
+            <div class="register_link">
+                <p>Ainda não possui uma conta? 
+                    <a href="#">Cadastre-se</a>
+                </p>
             </div>
         </form>
     </main>
