@@ -21,7 +21,7 @@ tela-de-login/ <br>
 ├── index.html         # Arquivo principal com o código HTML <br>
 ├── style.css          # Estilização da página <br>
 ├── assets/            # Pasta para imagens, ícones ou fontes <br>
-│   | <br>
+│   |     <br>
 │   └── background.jpg # (opcional) Imagem de fundo <br>
 └── README.md          # Documentação do projeto
 
