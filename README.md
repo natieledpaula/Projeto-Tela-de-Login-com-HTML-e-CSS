@@ -27,7 +27,7 @@ tela-de-login/
 
 ## 📸 Prévia do projeto
 
-> Você pode adicionar um print aqui ou link para o GitHub Pages.
+(https://natieledpaula.github.io/Projeto-Tela-de-Login-com-HTML-e-CSS/)
 
 ## 🧠 Aprendizados
 
