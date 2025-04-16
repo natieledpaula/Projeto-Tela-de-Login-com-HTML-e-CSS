@@ -17,13 +17,16 @@ A **tela de login** é uma das interfaces mais comuns em aplicações web. Este 
 - **CSS3** — Estilo, responsividade e animações
 
 ## 📂 Estrutura do projeto
-tela-de-login/ <br>
-├── index.html         # Arquivo principal com o código HTML <br>
-├── style.css          # Estilização da página <br>
-├── assets/            # Pasta para imagens, ícones ou fontes <br>
-│   |     <br>
-│   └── background.jpg # (opcional) Imagem de fundo <br>
+
+```
+tela-de-login/ 
+├── index.html         # Arquivo principal com o código HTML
+├── style.css          # Estilização da página 
+├── assets/            # Pasta para imagens, ícones ou fontes 
+│   |     
+│   └── background.jpg # (opcional) Imagem de fundo 
 └── README.md          # Documentação do projeto
+```
 
 ## 📸 Prévia do projeto
 
