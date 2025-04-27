@@ -19,12 +19,13 @@ A proposta é simular uma página de login que poderia ser usada em sites reais,
 
 ## 🎨 Paleta de Cores
 
-Função             | Cor        | Código HEX | 
-Cor dos icones     | Branco     | `#fff`     | 
-Cor do botão Login | Branco     | `#fff`     | 
-Cor dos Textos     | Branco     | `#fff`     |
-Cor do texto Login | Cinza      | `#333`     |
-Fundo              | IMAGEM     |
+| Elemento              | Cor            | Código Hexadecimal|
+|-----------------------|----------------|------------------ |
+| Fundo Principal       | Imagem         | `Não tem`         |
+| Cor dos icones        | Branco         | `#fff`            |
+| Cor do botão Login    | Branco         | `#fff`            |
+| Cor dos Textos        | Branco         | `#fff`            |
+| Cor do texto Login    | Cinza          | `#333`            |
 
 > As cores foram escolhidas para transmitir confiança, modernidade e simplicidade.
 
@@ -48,13 +49,16 @@ O projeto utiliza alguns elementos visuais para reforçar a identidade da tela:
 ---
 
 ## 📂 Estrutura do projeto
-tela-de-login/ <br>
-├── index.html         # Arquivo principal com o código HTML <br>
-├── style.css          # Estilização da página <br>
-├── assets/            # Pasta para imagens, ícones ou fontes <br>
-│   |     <br>
-│   └── background.jpg # (opcional) Imagem de fundo <br>
+
+```
+tela-de-login/ 
+├── index.html         # Arquivo principal com o código HTML 
+├── style.css          # Estilização da página 
+├── assets/            # Pasta para imagens, ícones ou fontes 
+│   |     
+│   └── background.jpg # (opcional) Imagem de fundo 
 └── README.md          # Documentação do projeto
+```
 
 ## 📸 Prévia do Projeto
 
