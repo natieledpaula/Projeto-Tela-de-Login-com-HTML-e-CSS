@@ -1,39 +1,91 @@
-# 🔐 Projeto Tela de Login com HTML e CSS
+# 🔐 Projeto Tela de Login — HTML e CSS
 
-Este repositório contém um projeto simples e moderno de **tela de login**, desenvolvido com **HTML5** e **CSS3**, com foco em design responsivo, layout centrado e boas práticas de estruturação de código front-end.
+Bem-vindo(a) ao repositório do **Projeto Tela de Login**, um exercício de criação de interface utilizando **HTML5** e **CSS3**, com foco em boas práticas de layout, responsividade e design visual agradável.
+
+---
 
 ## 🚀 Sobre o projeto
 
-A **tela de login** é uma das interfaces mais comuns em aplicações web. Este projeto simula uma página de autenticação com campos para e-mail e senha, botão de login e design agradável, ideal para treinar:
+A Tela de Login é o primeiro contato de muitos usuários com uma aplicação. Este projeto foi desenvolvido para treinar:
 
-- Estruturação com HTML semântico
-- Estilização com CSS moderno
+- Estruturação semântica com HTML5
+- Estilização moderna e responsiva com CSS3
+- Organização de projeto front-end
+- Design clean e minimalista, com atenção à usabilidade
 
-> Este projeto é apenas visual, sem funcionalidade de autenticação real.
+A proposta é simular uma página de login que poderia ser usada em sites reais, como sistemas internos, redes sociais ou e-commerce.
+
+---
+
+## 🎨 Paleta de Cores
+
+Função             | Cor        | Código HEX | 
+Cor dos icones     | Branco     | `#fff`     | 
+Cor do botão Login | Branco     | `#fff`     | 
+Cor dos Textos     | Branco     | `#fff`     |
+Cor do texto Login | Cinza      | `#333`     |
+Fundo              | IMAGEM     |
+
+> As cores foram escolhidas para transmitir confiança, modernidade e simplicidade.
+
+---
+
+## 🖼️ Imagens e Design
+
+O projeto utiliza alguns elementos visuais para reforçar a identidade da tela:
+
+- **Logo**: Uma imagem pequena no topo da tela (`assets/logo.png`).
+- **Background opcional**: Uma imagem de fundo suave (`assets/background.jpg`) ou uma cor sólida de fundo.
+- **Ícones**: Pequenos ícones de usuário e senha podem ser adicionados nos campos de entrada.
+
+---
 
 ## 🛠️ Tecnologias utilizadas
 
-- **HTML5** — Estrutura da página  
-- **CSS3** — Estilo, responsividade e animações
+- **HTML5** — Estrutura do conteúdo
+- **CSS3** — Estilização, layout responsivo, animações leves
 
-## 📂 Estrutura do projeto
-tela-de-login/ <br>
-├── index.html         # Arquivo principal com o código HTML <br>
-├── style.css          # Estilização da página <br>
-├── assets/            # Pasta para imagens, ícones ou fontes <br>
-│   |     <br>
-│   └── background.jpg # (opcional) Imagem de fundo <br>
-└── README.md          # Documentação do projeto
+---
 
-## 📸 Prévia do projeto
+## 📁 Estrutura do Projeto
+
+```
+tela-de-login/ 
+├── index.html # Página principal 
+├── style.css # Arquivo de estilos 
+├── assets/ 
+    │ 
+    ├── logo.png # Logo da aplicação 
+    │ 
+    └── background.jpg # (opcional) Imagem de fundo 
+└── README.md # Documentação do projeto
+```
+
+---
+
+## 📸 Prévia do Projeto
 
 (https://natieledpaula.github.io/Projeto-Tela-de-Login-com-HTML-e-CSS/)
 
-## 🧠 Aprendizados
+---
 
-- Posicionamento com Flexbox  
-- Criação de formulários estilizados  
-- Uso de placeholders, labels e botões personalizados  
+## ✨ Funcionalidades
+
+- Formulário com campos de e-mail e senha
+- Botão de "Entrar"
+- Layout centralizado e responsivo
+- Feedback visual nos campos de entrada (hover e focus)
+
+---
+
+## 🧠 Aprendizados
+- Posicionamento com Flexbox
+- Criação de formulários estilizados
+- Uso de placeholders, labels e botões personalizados
 - Responsividade para diferentes dispositivos
 
-Feito com 💙 
+---
+
+## 📸 Captura de Tela
+
+![alt text](img/image.png)
