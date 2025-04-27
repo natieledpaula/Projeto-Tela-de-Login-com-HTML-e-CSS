@@ -47,21 +47,14 @@ O projeto utiliza alguns elementos visuais para reforçar a identidade da tela:
 
 ---
 
-## 📁 Estrutura do Projeto
-
-```
-tela-de-login/ 
-├── index.html # Página principal 
-├── style.css # Arquivo de estilos 
-├── assets/ 
-    │ 
-    ├── logo.png # Logo da aplicação 
-    │ 
-    └── background.jpg # (opcional) Imagem de fundo 
-└── README.md # Documentação do projeto
-```
-
----
+## 📂 Estrutura do projeto
+tela-de-login/ <br>
+├── index.html         # Arquivo principal com o código HTML <br>
+├── style.css          # Estilização da página <br>
+├── assets/            # Pasta para imagens, ícones ou fontes <br>
+│   |     <br>
+│   └── background.jpg # (opcional) Imagem de fundo <br>
+└── README.md          # Documentação do projeto
 
 ## 📸 Prévia do Projeto
 
